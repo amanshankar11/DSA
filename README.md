@@ -9,6 +9,7 @@ A repository for my DSA practice.
 | [0011-container-with-most-water](https://github.com/amanshankar11/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/amanshankar11/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/amanshankar11/DSA/tree/main/0016-3sum-closest/) | Medium |
+| [0053-maximum-subarray](https://github.com/amanshankar11/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/amanshankar11/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/amanshankar11/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Two Pointers
@@ -75,4 +76,12 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanshankar11/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/amanshankar11/DSA/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/amanshankar11/DSA/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
