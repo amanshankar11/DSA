@@ -13,6 +13,7 @@ A repository for my DSA practice.
 | [0035-search-insert-position](https://github.com/amanshankar11/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/amanshankar11/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/amanshankar11/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0162-find-peak-element](https://github.com/amanshankar11/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/amanshankar11/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/amanshankar11/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Two Pointers
@@ -34,6 +35,7 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/amanshankar11/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0162-find-peak-element](https://github.com/amanshankar11/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/amanshankar11/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/amanshankar11/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bit Manipulation
