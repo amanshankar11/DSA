@@ -38,12 +38,12 @@ class Solution {
 }
     public int[] searchRange(int[] nums, int target) {
         int[] res=new int[2];
-        if(nums.length==1 && target==nums[0]){
-            Arrays.fill(res,0);
-            return res;
-        }
-        res[0]=-1;
-        res[1]=-1;
+        // if(nums.length==1 && target==nums[0]){
+        //     Arrays.fill(res,0);
+        //     return res;
+        // }
+        // res[0]=-1;
+        // res[1]=-1;
         int low=0;
         int high=nums.length-1;
         res[0]=firstOccurence(target,0,nums.length-1,nums);
