@@ -18,6 +18,7 @@ A repository for my DSA practice.
 | [0162-find-peak-element](https://github.com/amanshankar11/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/amanshankar11/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/amanshankar11/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amanshankar11/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/amanshankar11/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Two Pointers
@@ -44,6 +45,7 @@ A repository for my DSA practice.
 | [0162-find-peak-element](https://github.com/amanshankar11/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/amanshankar11/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/amanshankar11/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amanshankar11/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/amanshankar11/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
@@ -90,6 +92,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/amanshankar11/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanshankar11/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -107,8 +110,10 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/amanshankar11/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amanshankar11/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
