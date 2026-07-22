@@ -21,6 +21,7 @@ A repository for my DSA practice.
 | [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amanshankar11/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/amanshankar11/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/amanshankar11/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amanshankar11/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/amanshankar11/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Two Pointers
@@ -51,6 +52,7 @@ A repository for my DSA practice.
 | [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amanshankar11/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/amanshankar11/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/amanshankar11/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amanshankar11/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/amanshankar11/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Bit Manipulation
