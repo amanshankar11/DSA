@@ -1,15 +1,15 @@
 class Solution {
-    public boolean isValid(int[] arr,int k,int mid){
-        int subArrays=1;
+    public boolean isValid(int[] nums,int k,int mid){
         int sum=0;
-        for(int i=0;i<arr.length;i++){
-            sum+=arr[i];
+        int subArray=1;
+        for(int i=0;i<nums.length;i++){
+            sum+=nums[i];
             if(sum>mid){
-                subArrays++;
-                sum=arr[i];
+                subArray++;
+                sum=nums[i];
             }
         }
-        return subArrays<=k;
+        return subArray<=k;
     }
     public int splitArray(int[] nums, int k) {
         int low=nums[0];
