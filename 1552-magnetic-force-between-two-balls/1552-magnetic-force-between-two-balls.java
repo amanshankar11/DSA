@@ -12,17 +12,10 @@ class Solution {
 
     }
     public int maxDistance(int[] position, int m) {
-        int low=position[0];
-        int high=position[0];
-        for(int i=0;i<position.length;i++){
-            low=Math.min(low,position[i]);
-            high=Math.max(high,position[i]);
-        }
-        int diff=high-low;
-        high=diff;
-        low=1;
-        int ans=low;
         Arrays.sort(position);
+        int high=position[position.length-1]-position[0];
+        int low=1;
+        int ans=low;
         while(low<=high){
             int mid=low+(high-low)/2;
             if(isValid(position,m,mid)){
