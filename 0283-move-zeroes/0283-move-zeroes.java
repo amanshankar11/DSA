@@ -3,24 +3,24 @@ class Solution {
         int i=0;
         int j=1;
         while(j<nums.length){
-            if(nums[i]==0 && nums[j]==0){
-                j++;
-            }
+            // if(nums[i]==0 && nums[j]==0){
+            //     j++;
+            // }
             if(nums[i]!=0 && nums[j]==0){
                 i++;
-                j++;
+                // j++;
             }
-
             if(j<nums.length && nums[i]==0 && nums[j]!=0){
                 nums[i]=nums[j];
                 nums[j]=0;
                 i++;
-                j++;
+                // j++;
             }
             if(nums[i]!=0 && nums[j]!=0){
                 i++;
-                j++;
+                // j++;
             }
+            j++;
         }
     }
 }
