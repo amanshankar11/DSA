@@ -30,6 +30,7 @@ A repository for my DSA practice.
 | [1552-magnetic-force-between-two-balls](https://github.com/amanshankar11/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amanshankar11/DSA/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/amanshankar11/DSA/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
+| [3232-find-if-digit-game-can-be-won](https://github.com/amanshankar11/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +142,8 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amanshankar11/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3232-find-if-digit-game-can-be-won](https://github.com/amanshankar11/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 <!---LeetCode Topics End-->
