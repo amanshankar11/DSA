@@ -31,6 +31,7 @@ A repository for my DSA practice.
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amanshankar11/DSA/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/amanshankar11/DSA/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amanshankar11/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanshankar11/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +147,5 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amanshankar11/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanshankar11/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 <!---LeetCode Topics End-->
