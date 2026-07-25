@@ -17,8 +17,8 @@ class Solution {
         int high=dist[0];
         for(int i=1;i<dist.length;i++){
             low=Math.min(low,dist[i]);
-            high=Math.max(high,dist[i]);
-            // high+=dist[i];
+            // high=Math.max(high,dist[i]);
+            high+=dist[i];
         }
         high=10000000;
         low=1;
