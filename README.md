@@ -36,6 +36,7 @@ A repository for my DSA practice.
 | [0922-sort-array-by-parity-ii](https://github.com/amanshankar11/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/amanshankar11/DSA/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/amanshankar11/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/amanshankar11/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amanshankar11/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanshankar11/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -142,6 +143,7 @@ A repository for my DSA practice.
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanshankar11/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/amanshankar11/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanshankar11/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/amanshankar11/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanshankar11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -163,6 +165,7 @@ A repository for my DSA practice.
 | [0209-minimum-size-subarray-sum](https://github.com/amanshankar11/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanshankar11/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/amanshankar11/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/amanshankar11/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/amanshankar11/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -218,4 +221,8 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanshankar11/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/amanshankar11/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 <!---LeetCode Topics End-->
