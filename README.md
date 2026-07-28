@@ -36,6 +36,7 @@ A repository for my DSA practice.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanshankar11/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amanshankar11/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/amanshankar11/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/amanshankar11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amanshankar11/DSA/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/amanshankar11/DSA/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amanshankar11/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -62,6 +63,7 @@ A repository for my DSA practice.
 | [0881-boats-to-save-people](https://github.com/amanshankar11/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/amanshankar11/DSA/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/amanshankar11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@ A repository for my DSA practice.
 | [0977-squares-of-a-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanshankar11/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/amanshankar11/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/amanshankar11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +124,7 @@ A repository for my DSA practice.
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanshankar11/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/amanshankar11/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanshankar11/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/amanshankar11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
