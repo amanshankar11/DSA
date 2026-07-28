@@ -48,6 +48,7 @@ A repository for my DSA practice.
 | [0027-remove-element](https://github.com/amanshankar11/DSA/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/amanshankar11/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amanshankar11/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/amanshankar11/DSA/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/amanshankar11/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanshankar11/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -176,6 +177,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amanshankar11/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/amanshankar11/DSA/tree/main/0086-partition-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
