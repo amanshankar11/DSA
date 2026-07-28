@@ -33,6 +33,7 @@ A repository for my DSA practice.
 | [0875-koko-eating-bananas](https://github.com/amanshankar11/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/amanshankar11/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/amanshankar11/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/amanshankar11/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/amanshankar11/DSA/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/amanshankar11/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -70,6 +71,7 @@ A repository for my DSA practice.
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amanshankar11/DSA/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0881-boats-to-save-people](https://github.com/amanshankar11/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/amanshankar11/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/amanshankar11/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/amanshankar11/DSA/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanshankar11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -85,6 +87,7 @@ A repository for my DSA practice.
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amanshankar11/DSA/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0881-boats-to-save-people](https://github.com/amanshankar11/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/amanshankar11/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/amanshankar11/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanshankar11/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/amanshankar11/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
