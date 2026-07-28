@@ -24,6 +24,7 @@ A repository for my DSA practice.
 | [0283-move-zeroes](https://github.com/amanshankar11/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/amanshankar11/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/amanshankar11/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanshankar11/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/amanshankar11/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amanshankar11/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -59,6 +60,7 @@ A repository for my DSA practice.
 | [0287-find-the-duplicate-number](https://github.com/amanshankar11/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/amanshankar11/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/amanshankar11/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0455-assign-cookies](https://github.com/amanshankar11/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/amanshankar11/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/amanshankar11/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/amanshankar11/DSA/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -71,6 +73,7 @@ A repository for my DSA practice.
 | [0016-3sum-closest](https://github.com/amanshankar11/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/amanshankar11/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0455-assign-cookies](https://github.com/amanshankar11/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanshankar11/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/amanshankar11/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -150,6 +153,7 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/amanshankar11/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/amanshankar11/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/amanshankar11/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanshankar11/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Stack
