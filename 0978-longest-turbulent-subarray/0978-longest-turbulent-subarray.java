@@ -31,6 +31,19 @@ class Solution {
             }
             ans=Math.max(ans,right-left+1);
         }
+        // int less = 1;int great = 1;int res = 1;
+        // for(int i=1;i<arr.length;i++){
+        //     if(arr[i]>arr[i-1]){
+        //         great = less+1;
+        //         less = 1;
+        //     }else if(arr[i]<arr[i-1]){
+        //         less= great+1;
+        //         great = 1;
+        //     }else{
+        //         less = great = 1;
+        //     }
+        //     res = Math.max(res, Math.max(less, great));
+        // }
         return ans;
     }
 }
