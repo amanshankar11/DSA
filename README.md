@@ -172,6 +172,7 @@ A repository for my DSA practice.
 | [0925-long-pressed-name](https://github.com/amanshankar11/DSA/tree/main/0925-long-pressed-name/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanshankar11/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/amanshankar11/DSA/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/amanshankar11/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amanshankar11/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
