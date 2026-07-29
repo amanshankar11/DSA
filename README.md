@@ -118,6 +118,7 @@ A repository for my DSA practice.
 | [0875-koko-eating-bananas](https://github.com/amanshankar11/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/amanshankar11/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amanshankar11/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/amanshankar11/DSA/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amanshankar11/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/amanshankar11/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amanshankar11/DSA/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
@@ -162,6 +163,7 @@ A repository for my DSA practice.
 | [0541-reverse-string-ii](https://github.com/amanshankar11/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0925-long-pressed-name](https://github.com/amanshankar11/DSA/tree/main/0925-long-pressed-name/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanshankar11/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/amanshankar11/DSA/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amanshankar11/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -174,6 +176,7 @@ A repository for my DSA practice.
 | [0713-subarray-product-less-than-k](https://github.com/amanshankar11/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanshankar11/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/amanshankar11/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/amanshankar11/DSA/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +215,7 @@ A repository for my DSA practice.
 | [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/amanshankar11/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/amanshankar11/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/amanshankar11/DSA/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
