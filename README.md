@@ -173,6 +173,7 @@ A repository for my DSA practice.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanshankar11/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/amanshankar11/DSA/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/amanshankar11/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/amanshankar11/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amanshankar11/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -190,6 +191,7 @@ A repository for my DSA practice.
 | [1652-defuse-the-bomb](https://github.com/amanshankar11/DSA/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanshankar11/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanshankar11/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/amanshankar11/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +240,7 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanshankar11/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/amanshankar11/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/amanshankar11/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amanshankar11/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanshankar11/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Linked List
