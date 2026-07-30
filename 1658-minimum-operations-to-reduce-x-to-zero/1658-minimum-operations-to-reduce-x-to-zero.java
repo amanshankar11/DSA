@@ -3,17 +3,17 @@ class Solution {
         int total=0;
         for(int n:nums) total+=n;
         int target=total-x;
-        if (target < 0) return -1;
-        if (target == 0) return nums.length;
+        if (target<0) return -1;
+        if (target==0) return nums.length;
         int left=0;
-        int num=0;
+        int sum=0;
         int maxLen=-1;
         for(int right=0;right<nums.length;right++){
-            num+=nums[right];
-            while(num>target){
-                num-=nums[left++];
+            sum+=nums[right];
+            while(sum>target){
+                sum-=nums[left++];
             }
-            if(num==target){
+            if(sum==target){
                 maxLen=Math.max(maxLen,right-left+1);
             }
         }
