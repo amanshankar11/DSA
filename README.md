@@ -41,6 +41,7 @@ A repository for my DSA practice.
 | [0992-subarrays-with-k-different-integers](https://github.com/amanshankar11/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/amanshankar11/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amanshankar11/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amanshankar11/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanshankar11/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amanshankar11/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/amanshankar11/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -191,6 +192,7 @@ A repository for my DSA practice.
 | [0992-subarrays-with-k-different-integers](https://github.com/amanshankar11/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/amanshankar11/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/amanshankar11/DSA/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amanshankar11/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/amanshankar11/DSA/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanshankar11/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanshankar11/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -236,6 +238,7 @@ A repository for my DSA practice.
 | [0713-subarray-product-less-than-k](https://github.com/amanshankar11/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/amanshankar11/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/amanshankar11/DSA/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amanshankar11/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanshankar11/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanshankar11/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Math
