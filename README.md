@@ -52,6 +52,7 @@ A repository for my DSA practice.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanshankar11/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amanshankar11/DSA/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/amanshankar11/DSA/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
+| [2401-longest-nice-subarray](https://github.com/amanshankar11/DSA/tree/main/2401-longest-nice-subarray/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amanshankar11/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanshankar11/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
@@ -137,6 +138,7 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/amanshankar11/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/amanshankar11/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2401-longest-nice-subarray](https://github.com/amanshankar11/DSA/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +208,7 @@ A repository for my DSA practice.
 | [1695-maximum-erasure-value](https://github.com/amanshankar11/DSA/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanshankar11/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amanshankar11/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2401-longest-nice-subarray](https://github.com/amanshankar11/DSA/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
