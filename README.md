@@ -33,6 +33,7 @@ A repository for my DSA practice.
 | [0852-peak-index-in-a-mountain-array](https://github.com/amanshankar11/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/amanshankar11/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/amanshankar11/DSA/tree/main/0881-boats-to-save-people/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/amanshankar11/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/amanshankar11/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/amanshankar11/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/amanshankar11/DSA/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -163,6 +164,7 @@ A repository for my DSA practice.
 | [0187-repeated-dna-sequences](https://github.com/amanshankar11/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/amanshankar11/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanshankar11/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/amanshankar11/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanshankar11/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanshankar11/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanshankar11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -198,6 +200,7 @@ A repository for my DSA practice.
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanshankar11/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/amanshankar11/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/amanshankar11/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/amanshankar11/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/amanshankar11/DSA/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanshankar11/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/amanshankar11/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
