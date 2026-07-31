@@ -183,6 +183,7 @@ A repository for my DSA practice.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanshankar11/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/amanshankar11/DSA/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amanshankar11/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1704-determine-if-string-halves-are-alike](https://github.com/amanshankar11/DSA/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/amanshankar11/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amanshankar11/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amanshankar11/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -275,6 +276,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanshankar11/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1704-determine-if-string-halves-are-alike](https://github.com/amanshankar11/DSA/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
