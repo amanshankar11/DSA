@@ -34,6 +34,7 @@ A repository for my DSA practice.
 | [0724-find-pivot-index](https://github.com/amanshankar11/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amanshankar11/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/amanshankar11/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/amanshankar11/DSA/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/amanshankar11/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/amanshankar11/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/amanshankar11/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -248,6 +249,7 @@ A repository for my DSA practice.
 | [0053-maximum-subarray](https://github.com/amanshankar11/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/amanshankar11/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0877-stone-game](https://github.com/amanshankar11/DSA/tree/main/0877-stone-game/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/amanshankar11/DSA/tree/main/0978-longest-turbulent-subarray/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -268,6 +270,7 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanshankar11/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/amanshankar11/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0877-stone-game](https://github.com/amanshankar11/DSA/tree/main/0877-stone-game/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amanshankar11/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amanshankar11/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanshankar11/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -302,4 +305,8 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amanshankar11/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/amanshankar11/DSA/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
