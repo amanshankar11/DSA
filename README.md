@@ -30,6 +30,7 @@ A repository for my DSA practice.
 | [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/amanshankar11/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/amanshankar11/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/amanshankar11/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanshankar11/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/amanshankar11/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/amanshankar11/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -176,6 +177,7 @@ A repository for my DSA practice.
 | [0187-repeated-dna-sequences](https://github.com/amanshankar11/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/amanshankar11/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanshankar11/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/amanshankar11/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/amanshankar11/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanshankar11/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanshankar11/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -269,6 +271,7 @@ A repository for my DSA practice.
 | [0209-minimum-size-subarray-sum](https://github.com/amanshankar11/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/amanshankar11/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/amanshankar11/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/amanshankar11/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/amanshankar11/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/amanshankar11/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
