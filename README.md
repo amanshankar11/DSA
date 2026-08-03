@@ -28,6 +28,7 @@ A repository for my DSA practice.
 | [0287-find-the-duplicate-number](https://github.com/amanshankar11/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/amanshankar11/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/amanshankar11/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/amanshankar11/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanshankar11/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/amanshankar11/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -255,6 +256,7 @@ A repository for my DSA practice.
 | [0198-house-robber](https://github.com/amanshankar11/DSA/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/amanshankar11/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/amanshankar11/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0877-stone-game](https://github.com/amanshankar11/DSA/tree/main/0877-stone-game/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/amanshankar11/DSA/tree/main/0978-longest-turbulent-subarray/) | Medium |
 ## Prefix Sum
@@ -325,4 +327,12 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/amanshankar11/DSA/tree/main/0078-subsets/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/amanshankar11/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/amanshankar11/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
