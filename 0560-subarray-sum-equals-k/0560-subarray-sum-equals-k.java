@@ -9,10 +9,9 @@ class Solution {
         }
         int count=0;
         for(int i=1;i<prefix.length;i++){
-            int sum=prefix[i];
             int rem=prefix[i]-k;
             if(map.containsKey(rem)) count+=map.get(rem);
-            map.put(sum,map.getOrDefault(sum,0)+1);
+            map.put(prefix[i],map.getOrDefault(prefix[i],0)+1);
         }
         return count;
     }
