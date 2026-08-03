@@ -4,12 +4,13 @@ class Solution {
         for(int i=0;i<arr.length;i++){
             for(int j=i;j<arr.length;j++){
                 int sum=0;
-                int count=0;
-                for(int k=i;k<=j;k++){
-                    sum+=arr[k];
-                    count++;
+                int len=j-i+1;
+                if(len%2!=0){
+                    for(int k=i;k<=j;k++){
+                        sum+=arr[k];
+                    }
                 }
-                if(count%2!=0)overall+=sum;
+                overall+=sum;
             }
         }
         return overall;
