@@ -54,6 +54,7 @@ A repository for my DSA practice.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanshankar11/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanshankar11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/amanshankar11/DSA/tree/main/1695-maximum-erasure-value/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/amanshankar11/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanshankar11/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amanshankar11/DSA/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/amanshankar11/DSA/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
@@ -264,6 +265,7 @@ A repository for my DSA practice.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amanshankar11/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/amanshankar11/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanshankar11/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/amanshankar11/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanshankar11/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Math
 | Problem Name | Difficulty |
