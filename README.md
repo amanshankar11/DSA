@@ -6,6 +6,7 @@ A repository for my DSA practice.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/amanshankar11/DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/amanshankar11/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/amanshankar11/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/amanshankar11/DSA/tree/main/0016-3sum-closest/) | Medium |
@@ -192,6 +193,7 @@ A repository for my DSA practice.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/amanshankar11/DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanshankar11/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/amanshankar11/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/amanshankar11/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
