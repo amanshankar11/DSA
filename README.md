@@ -36,6 +36,7 @@ A repository for my DSA practice.
 | [0416-partition-equal-subset-sum](https://github.com/amanshankar11/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/amanshankar11/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/amanshankar11/DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [0518-coin-change-ii](https://github.com/amanshankar11/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/amanshankar11/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanshankar11/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/amanshankar11/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -290,6 +291,7 @@ A repository for my DSA practice.
 | [0410-split-array-largest-sum](https://github.com/amanshankar11/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/amanshankar11/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/amanshankar11/DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [0518-coin-change-ii](https://github.com/amanshankar11/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0740-delete-and-earn](https://github.com/amanshankar11/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/amanshankar11/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/amanshankar11/DSA/tree/main/0877-stone-game/) | Medium |
@@ -381,6 +383,7 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0322-coin-change](https://github.com/amanshankar11/DSA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/amanshankar11/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/amanshankar11/DSA/tree/main/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -413,4 +416,5 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/amanshankar11/DSA/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/amanshankar11/DSA/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
