@@ -210,6 +210,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanshankar11/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0072-edit-distance](https://github.com/amanshankar11/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/amanshankar11/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/amanshankar11/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/amanshankar11/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
@@ -285,6 +286,7 @@ A repository for my DSA practice.
 | [0062-unique-paths](https://github.com/amanshankar11/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/amanshankar11/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/amanshankar11/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/amanshankar11/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/amanshankar11/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/amanshankar11/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/amanshankar11/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
