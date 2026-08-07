@@ -197,6 +197,7 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/amanshankar11/DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanshankar11/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/amanshankar11/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amanshankar11/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0076-minimum-window-substring](https://github.com/amanshankar11/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/amanshankar11/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
@@ -215,6 +216,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanshankar11/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/amanshankar11/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amanshankar11/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0072-edit-distance](https://github.com/amanshankar11/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/amanshankar11/DSA/tree/main/0076-minimum-window-substring/) | Hard |
@@ -333,6 +335,7 @@ A repository for my DSA practice.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/amanshankar11/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/amanshankar11/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/amanshankar11/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amanshankar11/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
