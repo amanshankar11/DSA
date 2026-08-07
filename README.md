@@ -352,6 +352,7 @@ A repository for my DSA practice.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/amanshankar11/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amanshankar11/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/amanshankar11/DSA/tree/main/0086-partition-list/) | Medium |
 ## Heap (Priority Queue)
@@ -417,6 +418,7 @@ A repository for my DSA practice.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/amanshankar11/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0486-predict-the-winner](https://github.com/amanshankar11/DSA/tree/main/0486-predict-the-winner/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
