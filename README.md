@@ -85,6 +85,7 @@ A repository for my DSA practice.
 | [2848-points-that-intersect-with-cars](https://github.com/amanshankar11/DSA/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amanshankar11/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanshankar11/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3731-find-missing-elements](https://github.com/amanshankar11/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ A repository for my DSA practice.
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanshankar11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanshankar11/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amanshankar11/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/amanshankar11/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +215,7 @@ A repository for my DSA practice.
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanshankar11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/amanshankar11/DSA/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2848-points-that-intersect-with-cars](https://github.com/amanshankar11/DSA/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [3731-find-missing-elements](https://github.com/amanshankar11/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
