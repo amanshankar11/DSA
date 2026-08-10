@@ -175,6 +175,7 @@ A repository for my DSA practice.
 | [0187-repeated-dna-sequences](https://github.com/amanshankar11/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/amanshankar11/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/amanshankar11/DSA/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanshankar11/DSA/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/amanshankar11/DSA/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -211,6 +212,7 @@ A repository for my DSA practice.
 | [0904-fruit-into-baskets](https://github.com/amanshankar11/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amanshankar11/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanshankar11/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanshankar11/DSA/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanshankar11/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanshankar11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/amanshankar11/DSA/tree/main/1695-maximum-erasure-value/) | Medium |
@@ -234,6 +236,7 @@ A repository for my DSA practice.
 | [0925-long-pressed-name](https://github.com/amanshankar11/DSA/tree/main/0925-long-pressed-name/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanshankar11/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/amanshankar11/DSA/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanshankar11/DSA/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amanshankar11/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1704-determine-if-string-halves-are-alike](https://github.com/amanshankar11/DSA/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/amanshankar11/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -331,6 +334,7 @@ A repository for my DSA practice.
 | [1109-corporate-flight-bookings](https://github.com/amanshankar11/DSA/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/amanshankar11/DSA/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/amanshankar11/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanshankar11/DSA/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amanshankar11/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/amanshankar11/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/amanshankar11/DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
