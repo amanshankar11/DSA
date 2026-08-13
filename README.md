@@ -18,6 +18,7 @@ A repository for my DSA practice.
 | [0042-trapping-rain-water](https://github.com/amanshankar11/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/amanshankar11/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/amanshankar11/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/amanshankar11/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/amanshankar11/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/amanshankar11/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/amanshankar11/DSA/tree/main/0078-subsets/) | Medium |
@@ -429,6 +430,7 @@ A repository for my DSA practice.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/amanshankar11/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1094-car-pooling](https://github.com/amanshankar11/DSA/tree/main/1094-car-pooling/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -463,6 +465,7 @@ A repository for my DSA practice.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/amanshankar11/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/amanshankar11/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
