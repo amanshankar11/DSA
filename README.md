@@ -223,6 +223,7 @@ A repository for my DSA practice.
 | [2848-points-that-intersect-with-cars](https://github.com/amanshankar11/DSA/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanshankar11/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanshankar11/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanshankar11/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/amanshankar11/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -248,6 +249,7 @@ A repository for my DSA practice.
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/amanshankar11/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1871-jump-game-vii](https://github.com/amanshankar11/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amanshankar11/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanshankar11/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amanshankar11/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -275,6 +277,7 @@ A repository for my DSA practice.
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amanshankar11/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/amanshankar11/DSA/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanshankar11/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanshankar11/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
