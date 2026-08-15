@@ -88,6 +88,7 @@ A repository for my DSA practice.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanshankar11/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amanshankar11/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanshankar11/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amanshankar11/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/amanshankar11/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -181,6 +182,7 @@ A repository for my DSA practice.
 | [0371-sum-of-two-integers](https://github.com/amanshankar11/DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanshankar11/DSA/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/amanshankar11/DSA/tree/main/2401-longest-nice-subarray/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amanshankar11/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
