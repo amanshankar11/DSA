@@ -83,6 +83,7 @@ A repository for my DSA practice.
 | [2187-minimum-time-to-complete-trips](https://github.com/amanshankar11/DSA/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/amanshankar11/DSA/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/amanshankar11/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/amanshankar11/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amanshankar11/DSA/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/amanshankar11/DSA/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/amanshankar11/DSA/tree/main/2848-points-that-intersect-with-cars/) | Easy |
@@ -376,6 +377,7 @@ A repository for my DSA practice.
 | [1352-product-of-the-last-k-numbers](https://github.com/amanshankar11/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/amanshankar11/DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amanshankar11/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/amanshankar11/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amanshankar11/DSA/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/amanshankar11/DSA/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amanshankar11/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -480,6 +482,7 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/amanshankar11/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/amanshankar11/DSA/tree/main/0064-minimum-path-sum/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/amanshankar11/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -487,6 +490,7 @@ A repository for my DSA practice.
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2614-prime-in-diagonal](https://github.com/amanshankar11/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amanshankar11/DSA/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/amanshankar11/DSA/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 ## Euclidean Algorithm
