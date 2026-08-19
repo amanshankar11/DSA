@@ -83,6 +83,7 @@ A repository for my DSA practice.
 | [2187-minimum-time-to-complete-trips](https://github.com/amanshankar11/DSA/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/amanshankar11/DSA/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/amanshankar11/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amanshankar11/DSA/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/amanshankar11/DSA/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/amanshankar11/DSA/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanshankar11/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -375,6 +376,7 @@ A repository for my DSA practice.
 | [1352-product-of-the-last-k-numbers](https://github.com/amanshankar11/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/amanshankar11/DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amanshankar11/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amanshankar11/DSA/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/amanshankar11/DSA/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amanshankar11/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amanshankar11/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -485,5 +487,14 @@ A repository for my DSA practice.
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amanshankar11/DSA/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/amanshankar11/DSA/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amanshankar11/DSA/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amanshankar11/DSA/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 <!---LeetCode Topics End-->
