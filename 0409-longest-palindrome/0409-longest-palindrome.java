@@ -9,10 +9,10 @@ class Solution {
         int length = 0;
         boolean hasOdd = false;
 
-        for (int count : freq) {
-            length += (count / 2) * 2;
+        for (int val : freq) {
+            length += (val / 2) * 2;
 
-            if (count % 2 == 1) {
+            if (val % 2 == 1) {
                 hasOdd = true;
             }
         }
@@ -20,7 +20,6 @@ class Solution {
         if (hasOdd) {
             length++;
         }
-
         return length;
     }
 }
