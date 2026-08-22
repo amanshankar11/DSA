@@ -386,6 +386,7 @@ A repository for my DSA practice.
 | [3232-find-if-digit-game-can-be-won](https://github.com/amanshankar11/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amanshankar11/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanshankar11/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amanshankar11/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
