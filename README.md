@@ -42,6 +42,7 @@ A repository for my DSA practice.
 | [0486-predict-the-winner](https://github.com/amanshankar11/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/amanshankar11/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/amanshankar11/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/amanshankar11/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0605-can-place-flowers](https://github.com/amanshankar11/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanshankar11/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/amanshankar11/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -458,6 +459,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/amanshankar11/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/amanshankar11/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1094-car-pooling](https://github.com/amanshankar11/DSA/tree/main/1094-car-pooling/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -494,6 +496,7 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/amanshankar11/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/amanshankar11/DSA/tree/main/0064-minimum-path-sum/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/amanshankar11/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/amanshankar11/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
