@@ -6,9 +6,9 @@ class Solution {
         for(int i=0;i<n;i++){
             g.add(new ArrayList<>());
         }
-        for(int[] edge:edges){
-            g.get(edge[0]).add(edge[1]);
-            g.get(edge[1]).add(edge[0]);
+        for(int i=0;i<edges.length;i++){
+            g.get(edges[i][0]).add(edges[i][1]);
+            g.get(edges[i][1]).add(edges[i][0]);
         }
         return helper(visited,g,source,destination);
     }
