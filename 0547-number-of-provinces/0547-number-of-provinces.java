@@ -13,12 +13,12 @@ class Solution {
         return count;
     }
 
-    public void dfs(int[][] graph,boolean[] visited,int vertex){
-        visited[vertex]=true;
+    public void dfs(int[][] graph,boolean[] visited,int from){
+        visited[from]=true;
 
-        for(int element=0;element<graph.length;element++){
-            if(graph[vertex][element]==1 && !visited[element]){
-                dfs(graph,visited,element);
+        for(int to=0;to<graph.length;to++){
+            if(graph[from][to]==1 && !visited[to]){
+                dfs(graph,visited,to);
             }
         }
     }
