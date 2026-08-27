@@ -14,9 +14,9 @@ class Solution {
     }
     private boolean helper(boolean[] visited,List<ArrayList<Integer>> graph,int source,int destination){
         visited[source]=true;
+        if(source==destination) return true;
         for(int i=0;i<graph.get(source).size();i++){
-            if(graph.get(source).get(i)==destination) return true;
-            else if(!visited[graph.get(source).get(i)]){
+            if(!visited[graph.get(source).get(i)]){
                 if(helper(visited,graph,graph.get(source).get(i),destination))return true;
             }
         }
