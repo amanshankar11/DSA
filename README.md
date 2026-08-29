@@ -47,6 +47,7 @@ A repository for my DSA practice.
 | [0605-can-place-flowers](https://github.com/amanshankar11/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanshankar11/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/amanshankar11/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0695-max-area-of-island](https://github.com/amanshankar11/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/amanshankar11/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amanshankar11/DSA/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0724-find-pivot-index](https://github.com/amanshankar11/DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -201,6 +202,7 @@ A repository for my DSA practice.
 | [0112-path-sum](https://github.com/amanshankar11/DSA/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/amanshankar11/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/amanshankar11/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/amanshankar11/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1306-jump-game-iii](https://github.com/amanshankar11/DSA/tree/main/1306-jump-game-iii/) | Medium |
@@ -212,6 +214,7 @@ A repository for my DSA practice.
 | [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/amanshankar11/DSA/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/amanshankar11/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/amanshankar11/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/amanshankar11/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1306-jump-game-iii](https://github.com/amanshankar11/DSA/tree/main/1306-jump-game-iii/) | Medium |
@@ -221,6 +224,7 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/amanshankar11/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/amanshankar11/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -517,6 +521,7 @@ A repository for my DSA practice.
 | [0064-minimum-path-sum](https://github.com/amanshankar11/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/amanshankar11/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0695-max-area-of-island](https://github.com/amanshankar11/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/amanshankar11/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/amanshankar11/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
