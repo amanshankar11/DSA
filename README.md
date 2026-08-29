@@ -27,6 +27,7 @@ A repository for my DSA practice.
 | [0162-find-peak-element](https://github.com/amanshankar11/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanshankar11/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/amanshankar11/DSA/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/amanshankar11/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/amanshankar11/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/amanshankar11/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -198,6 +199,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/amanshankar11/DSA/tree/main/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/amanshankar11/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/amanshankar11/DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -207,6 +209,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/amanshankar11/DSA/tree/main/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/amanshankar11/DSA/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/amanshankar11/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
@@ -216,6 +219,7 @@ A repository for my DSA practice.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/amanshankar11/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
@@ -511,6 +515,7 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/amanshankar11/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/amanshankar11/DSA/tree/main/0064-minimum-path-sum/) | Medium |
+| [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/amanshankar11/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/amanshankar11/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
