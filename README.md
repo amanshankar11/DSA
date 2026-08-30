@@ -88,6 +88,7 @@ A repository for my DSA practice.
 | [1732-find-the-highest-altitude](https://github.com/amanshankar11/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanshankar11/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amanshankar11/DSA/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/amanshankar11/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/amanshankar11/DSA/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/amanshankar11/DSA/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/amanshankar11/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -334,6 +335,7 @@ A repository for my DSA practice.
 | [0881-boats-to-save-people](https://github.com/amanshankar11/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanshankar11/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanshankar11/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/amanshankar11/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
