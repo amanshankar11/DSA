@@ -274,6 +274,7 @@ A repository for my DSA practice.
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanshankar11/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/amanshankar11/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amanshankar11/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0071-simplify-path](https://github.com/amanshankar11/DSA/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/amanshankar11/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/amanshankar11/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/amanshankar11/DSA/tree/main/0125-valid-palindrome/) | Easy |
@@ -341,6 +342,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/amanshankar11/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/amanshankar11/DSA/tree/main/0071-simplify-path/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/amanshankar11/DSA/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanshankar11/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
