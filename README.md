@@ -281,6 +281,7 @@ A repository for my DSA practice.
 | [0344-reverse-string](https://github.com/amanshankar11/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/amanshankar11/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/amanshankar11/DSA/tree/main/0409-longest-palindrome/) | Easy |
+| [0412-fizz-buzz](https://github.com/amanshankar11/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/amanshankar11/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanshankar11/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/amanshankar11/DSA/tree/main/0541-reverse-string-ii/) | Easy |
@@ -409,6 +410,7 @@ A repository for my DSA practice.
 | [0062-unique-paths](https://github.com/amanshankar11/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/amanshankar11/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/amanshankar11/DSA/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0412-fizz-buzz](https://github.com/amanshankar11/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amanshankar11/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/amanshankar11/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanshankar11/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -487,6 +489,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/amanshankar11/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0412-fizz-buzz](https://github.com/amanshankar11/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/amanshankar11/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1094-car-pooling](https://github.com/amanshankar11/DSA/tree/main/1094-car-pooling/) | Medium |
 ## Data Stream
