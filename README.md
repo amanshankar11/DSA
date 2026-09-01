@@ -74,6 +74,7 @@ A repository for my DSA practice.
 | [1094-car-pooling](https://github.com/amanshankar11/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/amanshankar11/DSA/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1306-jump-game-iii](https://github.com/amanshankar11/DSA/tree/main/1306-jump-game-iii/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/amanshankar11/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/amanshankar11/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amanshankar11/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanshankar11/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -153,6 +154,7 @@ A repository for my DSA practice.
 | [0922-sort-array-by-parity-ii](https://github.com/amanshankar11/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1094-car-pooling](https://github.com/amanshankar11/DSA/tree/main/1094-car-pooling/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/amanshankar11/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanshankar11/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/amanshankar11/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanshankar11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -182,6 +184,7 @@ A repository for my DSA practice.
 | [1004-max-consecutive-ones-iii](https://github.com/amanshankar11/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amanshankar11/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/amanshankar11/DSA/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/amanshankar11/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amanshankar11/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/amanshankar11/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanshankar11/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -442,6 +445,7 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/amanshankar11/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1094-car-pooling](https://github.com/amanshankar11/DSA/tree/main/1094-car-pooling/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/amanshankar11/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanshankar11/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -537,6 +541,7 @@ A repository for my DSA practice.
 | [0566-reshape-the-matrix](https://github.com/amanshankar11/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0695-max-area-of-island](https://github.com/amanshankar11/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/amanshankar11/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/amanshankar11/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/amanshankar11/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Enumeration
