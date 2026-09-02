@@ -19,9 +19,11 @@ class Solution {
             }
             return a[1] - b[1];}
         );
-        for(int i=0;i<mat.length;i++){
-            int sum=helper(0,mat[0].length,mat[i]);
-            pq.offer(new int[]{sum,i});
+        int count=0;
+        for(int[] rows:mat){
+            int sum=helper(0,mat[0].length,rows);
+            pq.offer(new int[]{sum,count});
+            count++;
         }
         int[] result=new int[k];
 
