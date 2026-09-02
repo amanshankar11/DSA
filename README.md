@@ -213,6 +213,7 @@ A repository for my DSA practice.
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/amanshankar11/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1306-jump-game-iii](https://github.com/amanshankar11/DSA/tree/main/1306-jump-game-iii/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/amanshankar11/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -226,6 +227,7 @@ A repository for my DSA practice.
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/amanshankar11/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1306-jump-game-iii](https://github.com/amanshankar11/DSA/tree/main/1306-jump-game-iii/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/amanshankar11/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -233,6 +235,7 @@ A repository for my DSA practice.
 | [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/amanshankar11/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/amanshankar11/DSA/tree/main/0695-max-area-of-island/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/amanshankar11/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -240,6 +243,7 @@ A repository for my DSA practice.
 | [0547-number-of-provinces](https://github.com/amanshankar11/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/amanshankar11/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/amanshankar11/DSA/tree/main/0997-find-the-town-judge/) | Easy |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/amanshankar11/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/amanshankar11/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Hash Table
