@@ -216,6 +216,7 @@ A repository for my DSA practice.
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amanshankar11/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/amanshankar11/DSA/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/amanshankar11/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +232,7 @@ A repository for my DSA practice.
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amanshankar11/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/amanshankar11/DSA/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/amanshankar11/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +242,7 @@ A repository for my DSA practice.
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amanshankar11/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/amanshankar11/DSA/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/amanshankar11/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +252,7 @@ A repository for my DSA practice.
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amanshankar11/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/amanshankar11/DSA/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/amanshankar11/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/amanshankar11/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
