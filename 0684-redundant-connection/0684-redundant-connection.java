@@ -20,7 +20,7 @@ class Solution {
         return new int[0];
     }
     private boolean dfs(boolean[] visited,List<List<Integer>> graph,int from,int to){
-        if(from==to) return true;
+        // if(from==to) return true;
         visited[from]=true;
         for(int i=0;i<graph.get(from).size();i++){
             if(!visited[graph.get(from).get(i)]){
@@ -28,6 +28,7 @@ class Solution {
                     return true;
                 }
             }
+            else if(from==to)return true;
         }
         return false;
     }
