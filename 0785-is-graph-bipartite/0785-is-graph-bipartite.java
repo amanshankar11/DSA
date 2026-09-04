@@ -1,12 +1,6 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
         int[] color=new int[graph.length];
-        // for(int i=0;i<graph.length;i++) g.add(new ArrayList<>());
-        // for(int i=0;i<graph.length;i++){
-        //     for(int j=0;j<graph[i].length;j++){
-        //         g.get(i).add(graph[i][j]);
-        //     }
-        // }
         for(int i=0;i<graph.length;i++){
             if(color[i]==0){
                 if(!bfs(graph,color,i)){
