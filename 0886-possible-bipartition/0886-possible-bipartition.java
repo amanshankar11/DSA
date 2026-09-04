@@ -7,7 +7,7 @@ class Solution {
             g.get(dislikes[i][1]).add(dislikes[i][0]);
         }
         int[] color=new int[n+1];
-        for(int i=0;i<g.size();i++){
+        for(int i=1;i<=n;i++){
             if(color[i]==0){
                 if(!bfs(g,color,i)){
                     return false;
