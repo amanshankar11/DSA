@@ -214,6 +214,7 @@ A repository for my DSA practice.
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/amanshankar11/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/amanshankar11/DSA/tree/main/0841-keys-and-rooms/) | Medium |
+| [0886-possible-bipartition](https://github.com/amanshankar11/DSA/tree/main/0886-possible-bipartition/) | Medium |
 | [1306-jump-game-iii](https://github.com/amanshankar11/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amanshankar11/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -232,6 +233,7 @@ A repository for my DSA practice.
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/amanshankar11/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/amanshankar11/DSA/tree/main/0841-keys-and-rooms/) | Medium |
+| [0886-possible-bipartition](https://github.com/amanshankar11/DSA/tree/main/0886-possible-bipartition/) | Medium |
 | [1306-jump-game-iii](https://github.com/amanshankar11/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amanshankar11/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -245,6 +247,7 @@ A repository for my DSA practice.
 | [0684-redundant-connection](https://github.com/amanshankar11/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/amanshankar11/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/amanshankar11/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0886-possible-bipartition](https://github.com/amanshankar11/DSA/tree/main/0886-possible-bipartition/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amanshankar11/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/amanshankar11/DSA/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
@@ -256,6 +259,7 @@ A repository for my DSA practice.
 | [0684-redundant-connection](https://github.com/amanshankar11/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/amanshankar11/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/amanshankar11/DSA/tree/main/0841-keys-and-rooms/) | Medium |
+| [0886-possible-bipartition](https://github.com/amanshankar11/DSA/tree/main/0886-possible-bipartition/) | Medium |
 | [0997-find-the-town-judge](https://github.com/amanshankar11/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amanshankar11/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -596,8 +600,10 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/amanshankar11/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0886-possible-bipartition](https://github.com/amanshankar11/DSA/tree/main/0886-possible-bipartition/) | Medium |
 ## Bipartite Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/amanshankar11/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0886-possible-bipartition](https://github.com/amanshankar11/DSA/tree/main/0886-possible-bipartition/) | Medium |
 <!---LeetCode Topics End-->
