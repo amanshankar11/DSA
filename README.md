@@ -90,6 +90,7 @@ A repository for my DSA practice.
 | [1732-find-the-highest-altitude](https://github.com/amanshankar11/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanshankar11/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amanshankar11/DSA/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/amanshankar11/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amanshankar11/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/amanshankar11/DSA/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/amanshankar11/DSA/tree/main/2401-longest-nice-subarray/) | Medium |
@@ -238,6 +239,7 @@ A repository for my DSA practice.
 | [1091-shortest-path-in-binary-matrix](https://github.com/amanshankar11/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1306-jump-game-iii](https://github.com/amanshankar11/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amanshankar11/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/amanshankar11/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanshankar11/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/amanshankar11/DSA/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/amanshankar11/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -571,6 +573,7 @@ A repository for my DSA practice.
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/amanshankar11/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/amanshankar11/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/amanshankar11/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/amanshankar11/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/amanshankar11/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Enumeration
