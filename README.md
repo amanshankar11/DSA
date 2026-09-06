@@ -68,6 +68,7 @@ A repository for my DSA practice.
 | [0977-squares-of-a-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/amanshankar11/DSA/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanshankar11/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/amanshankar11/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/amanshankar11/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/amanshankar11/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amanshankar11/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -236,6 +237,7 @@ A repository for my DSA practice.
 | [0785-is-graph-bipartite](https://github.com/amanshankar11/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/amanshankar11/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/amanshankar11/DSA/tree/main/0886-possible-bipartition/) | Medium |
+| [0994-rotting-oranges](https://github.com/amanshankar11/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/amanshankar11/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1306-jump-game-iii](https://github.com/amanshankar11/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amanshankar11/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -571,6 +573,7 @@ A repository for my DSA practice.
 | [0566-reshape-the-matrix](https://github.com/amanshankar11/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0695-max-area-of-island](https://github.com/amanshankar11/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/amanshankar11/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/amanshankar11/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/amanshankar11/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/amanshankar11/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
