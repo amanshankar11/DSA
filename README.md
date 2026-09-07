@@ -43,6 +43,7 @@ A repository for my DSA practice.
 | [0463-island-perimeter](https://github.com/amanshankar11/DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0486-predict-the-winner](https://github.com/amanshankar11/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/amanshankar11/DSA/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/amanshankar11/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/amanshankar11/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/amanshankar11/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0605-can-place-flowers](https://github.com/amanshankar11/DSA/tree/main/0605-can-place-flowers/) | Easy |
@@ -230,6 +231,7 @@ A repository for my DSA practice.
 | [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/amanshankar11/DSA/tree/main/0322-coin-change/) | Medium |
 | [0463-island-perimeter](https://github.com/amanshankar11/DSA/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/amanshankar11/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/amanshankar11/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/amanshankar11/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/amanshankar11/DSA/tree/main/0695-max-area-of-island/) | Medium |
@@ -411,6 +413,7 @@ A repository for my DSA practice.
 | [0416-partition-equal-subset-sum](https://github.com/amanshankar11/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/amanshankar11/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/amanshankar11/DSA/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/amanshankar11/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0740-delete-and-earn](https://github.com/amanshankar11/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/amanshankar11/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/amanshankar11/DSA/tree/main/0877-stone-game/) | Medium |
@@ -570,6 +573,7 @@ A repository for my DSA practice.
 | [0064-minimum-path-sum](https://github.com/amanshankar11/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/amanshankar11/DSA/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/amanshankar11/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/amanshankar11/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0695-max-area-of-island](https://github.com/amanshankar11/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
