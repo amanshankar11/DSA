@@ -467,6 +467,7 @@ A repository for my DSA practice.
 | [3345-smallest-divisible-digit-product-i](https://github.com/amanshankar11/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanshankar11/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amanshankar11/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3870-count-commas-in-range](https://github.com/amanshankar11/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/amanshankar11/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
