@@ -1,6 +1,6 @@
 class Solution {
     private int coma(int n){
-        if(n<=4)return 0;
+        if(n<1000)return 0;
         String num=String.valueOf(n);
         int commas=num.length()/4;
         return commas;
