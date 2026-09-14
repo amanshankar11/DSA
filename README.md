@@ -212,6 +212,7 @@ A repository for my DSA practice.
 | [0112-path-sum](https://github.com/amanshankar11/DSA/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/amanshankar11/DSA/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/amanshankar11/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/amanshankar11/DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/amanshankar11/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/amanshankar11/DSA/tree/main/0684-redundant-connection/) | Medium |
@@ -231,6 +232,7 @@ A repository for my DSA practice.
 | [0112-path-sum](https://github.com/amanshankar11/DSA/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/amanshankar11/DSA/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/amanshankar11/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/amanshankar11/DSA/tree/main/0322-coin-change/) | Medium |
 | [0463-island-perimeter](https://github.com/amanshankar11/DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/amanshankar11/DSA/tree/main/0542-01-matrix/) | Medium |
@@ -266,6 +268,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/amanshankar11/DSA/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/amanshankar11/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/amanshankar11/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/amanshankar11/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/amanshankar11/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -627,6 +630,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/amanshankar11/DSA/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/amanshankar11/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
