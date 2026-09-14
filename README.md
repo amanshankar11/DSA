@@ -219,6 +219,7 @@ A repository for my DSA practice.
 | [0695-max-area-of-island](https://github.com/amanshankar11/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/amanshankar11/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/amanshankar11/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/amanshankar11/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/amanshankar11/DSA/tree/main/0886-possible-bipartition/) | Medium |
 | [1306-jump-game-iii](https://github.com/amanshankar11/DSA/tree/main/1306-jump-game-iii/) | Medium |
@@ -241,6 +242,7 @@ A repository for my DSA practice.
 | [0695-max-area-of-island](https://github.com/amanshankar11/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/amanshankar11/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/amanshankar11/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/amanshankar11/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/amanshankar11/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/amanshankar11/DSA/tree/main/0886-possible-bipartition/) | Medium |
 | [0994-rotting-oranges](https://github.com/amanshankar11/DSA/tree/main/0994-rotting-oranges/) | Medium |
@@ -272,6 +274,7 @@ A repository for my DSA practice.
 | [0547-number-of-provinces](https://github.com/amanshankar11/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/amanshankar11/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/amanshankar11/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/amanshankar11/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/amanshankar11/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/amanshankar11/DSA/tree/main/0886-possible-bipartition/) | Medium |
 | [0997-find-the-town-judge](https://github.com/amanshankar11/DSA/tree/main/0997-find-the-town-judge/) | Easy |
@@ -631,8 +634,17 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/amanshankar11/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/amanshankar11/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/amanshankar11/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/amanshankar11/DSA/tree/main/0207-course-schedule/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/amanshankar11/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/amanshankar11/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
