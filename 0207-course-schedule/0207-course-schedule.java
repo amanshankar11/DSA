@@ -6,8 +6,8 @@ class Solution {
         for(int[] row:prerequisites){
             int u=row[0];
             int v=row[1];
-            indegree[v]++;
-            graph.get(u).add(v);
+            indegree[u]++;
+            graph.get(v).add(u);
         }
         Queue<Integer> q=new LinkedList<>();
         for(int i=0;i<indegree.length;i++){
