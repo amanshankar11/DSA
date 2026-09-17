@@ -391,6 +391,7 @@ A repository for my DSA practice.
 | [0605-can-place-flowers](https://github.com/amanshankar11/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/amanshankar11/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/amanshankar11/DSA/tree/main/0881-boats-to-save-people/) | Medium |
+| [0991-broken-calculator](https://github.com/amanshankar11/DSA/tree/main/0991-broken-calculator/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanshankar11/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanshankar11/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amanshankar11/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -480,6 +481,7 @@ A repository for my DSA practice.
 | [0628-maximum-product-of-three-numbers](https://github.com/amanshankar11/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/amanshankar11/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/amanshankar11/DSA/tree/main/0877-stone-game/) | Medium |
+| [0991-broken-calculator](https://github.com/amanshankar11/DSA/tree/main/0991-broken-calculator/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/amanshankar11/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/amanshankar11/DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amanshankar11/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
