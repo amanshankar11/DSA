@@ -105,6 +105,7 @@ A repository for my DSA practice.
 | [2848-points-that-intersect-with-cars](https://github.com/amanshankar11/DSA/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanshankar11/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanshankar11/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3213-construct-string-with-minimum-cost](https://github.com/amanshankar11/DSA/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amanshankar11/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amanshankar11/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanshankar11/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -349,6 +350,7 @@ A repository for my DSA practice.
 | [1871-jump-game-vii](https://github.com/amanshankar11/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amanshankar11/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanshankar11/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3213-construct-string-with-minimum-cost](https://github.com/amanshankar11/DSA/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amanshankar11/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -435,6 +437,7 @@ A repository for my DSA practice.
 | [0877-stone-game](https://github.com/amanshankar11/DSA/tree/main/0877-stone-game/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/amanshankar11/DSA/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1871-jump-game-vii](https://github.com/amanshankar11/DSA/tree/main/1871-jump-game-vii/) | Medium |
+| [3213-construct-string-with-minimum-cost](https://github.com/amanshankar11/DSA/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -656,4 +659,8 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/amanshankar11/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3213-construct-string-with-minimum-cost](https://github.com/amanshankar11/DSA/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 <!---LeetCode Topics End-->
