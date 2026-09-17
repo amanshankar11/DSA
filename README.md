@@ -190,6 +190,7 @@ A repository for my DSA practice.
 | [0658-find-k-closest-elements](https://github.com/amanshankar11/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/amanshankar11/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amanshankar11/DSA/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
+| [0754-reach-a-number](https://github.com/amanshankar11/DSA/tree/main/0754-reach-a-number/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amanshankar11/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/amanshankar11/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/amanshankar11/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -483,6 +484,7 @@ A repository for my DSA practice.
 | [0486-predict-the-winner](https://github.com/amanshankar11/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanshankar11/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/amanshankar11/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0754-reach-a-number](https://github.com/amanshankar11/DSA/tree/main/0754-reach-a-number/) | Medium |
 | [0877-stone-game](https://github.com/amanshankar11/DSA/tree/main/0877-stone-game/) | Medium |
 | [0991-broken-calculator](https://github.com/amanshankar11/DSA/tree/main/0991-broken-calculator/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/amanshankar11/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
