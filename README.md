@@ -22,6 +22,7 @@ A repository for my DSA practice.
 | [0064-minimum-path-sum](https://github.com/amanshankar11/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/amanshankar11/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/amanshankar11/DSA/tree/main/0078-subsets/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/amanshankar11/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/amanshankar11/DSA/tree/main/0162-find-peak-element/) | Medium |
@@ -398,12 +399,14 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/amanshankar11/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/amanshankar11/DSA/tree/main/0071-simplify-path/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/amanshankar11/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0962-maximum-width-ramp](https://github.com/amanshankar11/DSA/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanshankar11/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/amanshankar11/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/amanshankar11/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0962-maximum-width-ramp](https://github.com/amanshankar11/DSA/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanshankar11/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Divide and Conquer
@@ -663,4 +666,8 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3213-construct-string-with-minimum-cost](https://github.com/amanshankar11/DSA/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/amanshankar11/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
