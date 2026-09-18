@@ -31,6 +31,7 @@ A repository for my DSA practice.
 | [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/amanshankar11/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/amanshankar11/DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanshankar11/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/amanshankar11/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/amanshankar11/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/amanshankar11/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -154,6 +155,7 @@ A repository for my DSA practice.
 | [0016-3sum-closest](https://github.com/amanshankar11/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/amanshankar11/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanshankar11/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/amanshankar11/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/amanshankar11/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amanshankar11/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -418,6 +420,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/amanshankar11/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanshankar11/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -509,6 +512,7 @@ A repository for my DSA practice.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanshankar11/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/amanshankar11/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1094-car-pooling](https://github.com/amanshankar11/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/amanshankar11/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -677,4 +681,8 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/amanshankar11/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanshankar11/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
