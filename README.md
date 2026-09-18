@@ -514,6 +514,7 @@ A repository for my DSA practice.
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanshankar11/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/amanshankar11/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/amanshankar11/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1094-car-pooling](https://github.com/amanshankar11/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/amanshankar11/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanshankar11/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -539,6 +540,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amanshankar11/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/amanshankar11/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/amanshankar11/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -574,6 +576,7 @@ A repository for my DSA practice.
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/amanshankar11/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/amanshankar11/DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -640,10 +643,12 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/amanshankar11/DSA/tree/main/0112-path-sum/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/amanshankar11/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/amanshankar11/DSA/tree/main/0112-path-sum/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/amanshankar11/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -685,4 +690,8 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanshankar11/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/amanshankar11/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
