@@ -510,6 +510,7 @@ A repository for my DSA practice.
 | [0024-swap-nodes-in-pairs](https://github.com/amanshankar11/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amanshankar11/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/amanshankar11/DSA/tree/main/0086-partition-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/amanshankar11/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/amanshankar11/DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -584,6 +585,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/amanshankar11/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0206-reverse-linked-list](https://github.com/amanshankar11/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/amanshankar11/DSA/tree/main/0486-predict-the-winner/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
