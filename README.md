@@ -132,6 +132,7 @@ A repository for my DSA practice.
 | [0086-partition-list](https://github.com/amanshankar11/DSA/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/amanshankar11/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/amanshankar11/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanshankar11/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/amanshankar11/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/amanshankar11/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -342,6 +343,7 @@ A repository for my DSA practice.
 | [0076-minimum-window-substring](https://github.com/amanshankar11/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0097-interleaving-string](https://github.com/amanshankar11/DSA/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/amanshankar11/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/amanshankar11/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/amanshankar11/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0242-valid-anagram](https://github.com/amanshankar11/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/amanshankar11/DSA/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
