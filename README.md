@@ -143,6 +143,7 @@ A repository for my DSA practice.
 | [0633-sum-of-square-numbers](https://github.com/amanshankar11/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/amanshankar11/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amanshankar11/DSA/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
+| [0876-middle-of-the-linked-list](https://github.com/amanshankar11/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/amanshankar11/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/amanshankar11/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/amanshankar11/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -518,6 +519,7 @@ A repository for my DSA practice.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amanshankar11/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/amanshankar11/DSA/tree/main/0086-partition-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/amanshankar11/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/amanshankar11/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/amanshankar11/DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
