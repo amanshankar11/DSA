@@ -158,6 +158,7 @@ A repository for my DSA practice.
 | [0088-merge-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanshankar11/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/amanshankar11/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/amanshankar11/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/amanshankar11/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amanshankar11/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanshankar11/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -307,6 +308,7 @@ A repository for my DSA practice.
 | [0076-minimum-window-substring](https://github.com/amanshankar11/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/amanshankar11/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0217-contains-duplicate](https://github.com/amanshankar11/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/amanshankar11/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/amanshankar11/DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/amanshankar11/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanshankar11/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -341,6 +343,7 @@ A repository for my DSA practice.
 | [0097-interleaving-string](https://github.com/amanshankar11/DSA/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/amanshankar11/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/amanshankar11/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0242-valid-anagram](https://github.com/amanshankar11/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/amanshankar11/DSA/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0344-reverse-string](https://github.com/amanshankar11/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/amanshankar11/DSA/tree/main/0392-is-subsequence/) | Easy |
