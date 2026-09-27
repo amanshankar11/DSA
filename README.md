@@ -320,6 +320,7 @@ A repository for my DSA practice.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanshankar11/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanshankar11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/amanshankar11/DSA/tree/main/1695-maximum-erasure-value/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/amanshankar11/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/amanshankar11/DSA/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/amanshankar11/DSA/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanshankar11/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -355,6 +356,7 @@ A repository for my DSA practice.
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amanshankar11/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1704-determine-if-string-halves-are-alike](https://github.com/amanshankar11/DSA/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/amanshankar11/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/amanshankar11/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1871-jump-game-vii](https://github.com/amanshankar11/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amanshankar11/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanshankar11/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
