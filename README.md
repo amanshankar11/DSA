@@ -25,6 +25,7 @@ A repository for my DSA practice.
 | [0078-subsets](https://github.com/amanshankar11/DSA/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/amanshankar11/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/amanshankar11/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/amanshankar11/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanshankar11/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -451,6 +452,7 @@ A repository for my DSA practice.
 | [0070-climbing-stairs](https://github.com/amanshankar11/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/amanshankar11/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/amanshankar11/DSA/tree/main/0097-interleaving-string/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/amanshankar11/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/amanshankar11/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/amanshankar11/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/amanshankar11/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
