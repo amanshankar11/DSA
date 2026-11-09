@@ -28,6 +28,7 @@ A repository for my DSA practice.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/amanshankar11/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanshankar11/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/amanshankar11/DSA/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/amanshankar11/DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/amanshankar11/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/amanshankar11/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -159,6 +160,7 @@ A repository for my DSA practice.
 | [0016-3sum-closest](https://github.com/amanshankar11/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/amanshankar11/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/amanshankar11/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/amanshankar11/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanshankar11/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/amanshankar11/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/amanshankar11/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -310,6 +312,7 @@ A repository for my DSA practice.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amanshankar11/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0076-minimum-window-substring](https://github.com/amanshankar11/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/amanshankar11/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/amanshankar11/DSA/tree/main/0169-majority-element/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/amanshankar11/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0217-contains-duplicate](https://github.com/amanshankar11/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/amanshankar11/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -431,6 +434,7 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/amanshankar11/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/amanshankar11/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanshankar11/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -536,6 +540,7 @@ A repository for my DSA practice.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/amanshankar11/DSA/tree/main/0169-majority-element/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanshankar11/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1704-determine-if-string-halves-are-alike](https://github.com/amanshankar11/DSA/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/amanshankar11/DSA/tree/main/2748-number-of-beautiful-pairs/) | Easy |
@@ -723,4 +728,8 @@ A repository for my DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/amanshankar11/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/amanshankar11/DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
