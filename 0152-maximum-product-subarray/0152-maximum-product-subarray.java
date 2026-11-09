@@ -1,13 +1,51 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int max=Integer.MIN_VALUE;
-        for(int i=0;i<nums.length;i++){
-            int prod=1;
-            for(int j=i;j<nums.length;j++){
-                prod=prod*nums[j];
-                if(max<prod)max=prod;
+       int n = nums.length;
+ 
+        // No non-empty subarray exists.
+        if (n == 0) {
+            return 0;
+        }
+ 
+        int currentMax = nums[0];
+        int currentMin = nums[0];
+        int maxProduct = nums[0];
+ 
+        for (int index = 1; index < n; index++) {
+            int currentValue = nums[index];
+ 
+            /*
+             * Preserve both previous states because
+             * a negative value can swap their roles.
+             */
+            int previousMax = currentMax;
+            int previousMin = currentMin;
+ 
+            /*
+             * Either start fresh or extend one of
+             * the previous product subarrays.
+             */
+            currentMax = Math.max(
+                currentValue,
+                Math.max(
+                    previousMax * currentValue,
+                    previousMin * currentValue
+                )
+            );
+ 
+            currentMin = Math.min(
+                currentValue,
+                Math.min(
+                    previousMax * currentValue,
+                    previousMin * currentValue
+                )
+            );
+ 
+            // Record the best product found anywhere so far.
+            if (currentMax > maxProduct) {
+                maxProduct = currentMax;
             }
         }
-        return max;
+        return maxProduct; 
     }
 }
